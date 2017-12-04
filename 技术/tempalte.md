@@ -22,7 +22,28 @@
 * 极客学院,[https://www.jikexueyuan.com/](https://www.jikexueyuan.com/), 跟慕课网类似的IT在线学习平台
 * Stack Overflow, [https://stackoverflow.com/](https://stackoverflow.com/), 类似问答平台，遇到问题，在这里提问，回答的人非常用心，技术学习上遇到的问题在这里非常容易找到答案
 * Github, [https://github.com/](https://github.com/), 世界上最大的代码存放网站和开源社区,不知什么时候，大家开始成为了Github的搬运工
-
+* Google 翻译:    https://translate.google.cn/
+* HDSocks - 飞速稳定的科学上网外贸抢单神器:    http://www.hdsocks.com/index.html
+* 读远：发掘优质电子书资源，提供好书分享、下载与推送。支持mobi/epub/pdf/txt格式。 - 读远:    http://readcolor.com/
+* 中国大学MOOC(慕课)_最好的在线课程学习平台:    http://www.icourse163.org/
+* mac软件大全_mac软件下载中心:    http://www.pc6.com/mac/soft/
+* BT Kitty - 专业BT种子搜索神器、下载利器，免费下载各种BT种子:    http://btkitty.kim/
+* 金数据 - 免费好用的表单和数据收集整理分析工具:    https://jinshuju.net/
+* 公开课可下载资源汇总 | 课程图谱博客:    http://blog.coursegraph.com/
+* 草料网址二维码生成器:    http://cli.im/url
+* 终于弄懂了各种前端build工具:    [链接](http://mp.weixin.qq.com/s?__biz=MzAxMzQ3NzQ3Nw==&mid=2654249245&idx=3&sn=b131400a4f7d5b5739716881a752fc55&chksm=8061f217b7167b0159cd735eae0601da332d05d4d00aa554703f076d708ed2e6121cf90aacb8&scene=0#wechat_redirect)
+* 每个程序员都应该收藏的算法复杂度速查表:    http://mp.weixin.qq.com/s/brg9JlEB8zoWXhBc-BxUcw
+* 初学者如何从零学习人工智能？看完你就懂了:    http://mp.weixin.qq.com/s/1G0NJsB9p4Jdpcv3Oeu8VQ
+* 20大Python机器学习开源项目，已更新:    http://mp.weixin.qq.com/s/Awaycmth7qN2FEIpDNdycA
+* 编程是一种技艺 - 一种需要用心学习的技艺。:    http://muhlenxi.com/
+* 阮一峰的网络日志:    http://www.ruanyifeng.com/blog/
+* 不积跬步 无以至千里 不积小流 无以成江海 - ITeye技术网站:    http://justsee.iteye.com/
+* 《15道使用频率极高的基础算法题》 | www.zhaoyafei.cn | 赵亚飞的个人网站:    http://www.zhaoyafei.cn/index.php/content.html?id=13
+* 面试中的排序算法总结 - Pickle - 博客园:    http://www.cnblogs.com/wxisme/p/5243631.html
+* 菜鸟教程 - 学的不仅是技术，更是梦想！:    http://www.runoob.com/
+* IT怪 挨踢怪 [it怪]:    http://www.itguai.com/
+* 码农网-程序员编程资料和编程经验分享平台:    http://www.codeceo.com/
+* 博客吧 - 开发者的知识聚合分享网站:    http://www.blogs8.cn/
 
 # 常用工具整理
 ## 工具名,工具介绍,下载链接
@@ -60,3 +81,6 @@
 * 程序员小灰 作者：用漫画的形式讲述编程技术和算法。http://osvtz719h.bkt.clouddn.com/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B0%8F%E7%81%B0.png
 * 「ImportNew」是最受欢迎的、专注 Java 技术分享的微信公众号。分享 Java 技术动态、基础技术、进阶技能、架构设计、经典书籍、热门课程和高薪职位等。http://osvtz719h.bkt.clouddn.com/importnew.png
 * Java知音: 推送Java相关优质文章http://osvtz719h.bkt.clouddn.com/%E5%9B%BE%E7%89%871.png
+* 编程派 微信号：codingpy 介绍：Python程序员都在看的公众号
+
+
