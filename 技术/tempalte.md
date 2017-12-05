@@ -23,8 +23,16 @@
 * Stack Overflow, [https://stackoverflow.com/](https://stackoverflow.com/), 类似问答平台，遇到问题，在这里提问，回答的人非常用心，技术学习上遇到的问题在这里非常容易找到答案
 * Github, [https://github.com/](https://github.com/), 世界上最大的代码存放网站和开源社区,不知什么时候，大家开始成为了Github的搬运工
 * Google 翻译:    https://translate.google.cn/
-* HDSocks - 飞速稳定的科学上网外贸抢单神器:    http://www.hdsocks.com/index.html
-* 读远：发掘优质电子书资源，提供好书分享、下载与推送。支持mobi/epub/pdf/txt格式。 - 读远:    http://readcolor.com/
+* HDSocks - 飞速稳定的科学上网外贸抢单神器:    http://www.hdsocks.com/index.html
+* 优达学城 - Udacity中国_硅谷前沿技术学习平台:  https://cn.udacity.com/
+* Bmob - 全方位一体化的后端服务平台，使用 Bmob 无需后端编程和租用服务器：https://www.bmob.cn/
+* 七牛云 - 国内领先的企业级云服务商,致力于打造以数据为核心的场景化 PaaS 服务: https://www.qiniu.com/
+* 智图 - 高效优质的图片优化平台：http://zhitu.isux.us/
+* Sprite Cow - css精灵代码在线生成：http://www.spritecow.com/
+* JsonBird - 业界领先的远程数据接口代理服务：https://bird.ioliu.cn/
+* Awesome-github-vue - Vue相关开源项目项目库汇总：https://github.com/opendigg/awesome-github-vue
+* 阮一峰博客 - 阮一峰大佬的私人文章聚集地：http://www.ruanyifeng.com/home.html
+* 读远：发掘优质电子书资源，提供好书分享、下载与推送。支持mobi/epub/pdf/txt格式。 - 读远:   http://readcolor.com/
 * 中国大学MOOC(慕课)_最好的在线课程学习平台:    http://www.icourse163.org/
 * mac软件大全_mac软件下载中心:    http://www.pc6.com/mac/soft/
 * BT Kitty - 专业BT种子搜索神器、下载利器，免费下载各种BT种子:    http://btkitty.kim/
@@ -62,6 +70,10 @@
 * Xshell——远程SSH连接工具 下载链接:http://www.netsarang.com/download/down_form.html?code=522
 * xftp——上传工具，配合Xshell使用 下载链接:http://www.netsarang.com/download/down_form.html?code=423
 * 有道云笔记——在线记录平时的笔记 下载链接:http://note.youdao.com/
+* Fiddler——http协议调试代理工具，抓包，修改包，功能强大（仅支持Windows平台） 下载链接:https://www.telerik.com/fiddler
+* Charles——Mac OS下的Fiddler，功能与Fiddler相同 下载链接:https://www.charlesproxy.com/
+* 蚂蚁笔记——蚂蚁笔记 = 笔记 + 博客 + 协作 + 私有云 下载链接: https://leanote.com/
+
 
 # 常用公众号整理
 ## 公众号名，公众号介绍，公众号二维码图片地址
@@ -82,5 +94,9 @@
 * 「ImportNew」是最受欢迎的、专注 Java 技术分享的微信公众号。分享 Java 技术动态、基础技术、进阶技能、架构设计、经典书籍、热门课程和高薪职位等。http://osvtz719h.bkt.clouddn.com/importnew.png
 * Java知音: 推送Java相关优质文章http://osvtz719h.bkt.clouddn.com/%E5%9B%BE%E7%89%871.png
 * 编程派 微信号：codingpy 介绍：Python程序员都在看的公众号
+* 前端大全，微信号：FrontDev 介绍：分享Web前端相关的技术文章，工具资源，精选课程，热点资讯
+* 阿里技术，微信号：ali_tech 介绍: 阿里巴巴官方技术号，关于阿里的技术创新均呈现于此
+* 腾讯深网，微信号：qqshenwang 介绍: 腾讯出品的挖掘TMT领域热门公司，事件和人物中的隐秘故事，探究背后深层逻辑
+* 前端周刊，微信号：fullstackacademy 介绍：王仕军的公众号，感受技术大佬的文章力量
 
 
